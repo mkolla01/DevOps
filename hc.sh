@@ -29,9 +29,9 @@
 # Revision History
 #    
 #    version #        owner                date                Note    
-#    0.5                Yabin Meng            Feb. 26, 2016        Initial working version
-#    0.6                Yaibn Meng            March 2, 2016        Add comment
-#    1.0                Yaibn Meng            March 21, 2016        Improve check on RAID, Virtualization, and other minor updates
+#    0.5                MK            Feb. 26, 2016        Initial working version
+#    0.6                MK            March 2, 2016        Add comment
+#    1.0                MK            March 21, 2016        Improve check on RAID, Virtualization, and other minor updates
 #
 
 #CAS_CONFDIR_DFT=/opt/cassandra/conf
